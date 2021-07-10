@@ -14,6 +14,7 @@ class ProductAdd extends StatefulWidget{
 class _ProductAddState extends State<ProductAdd> {
   @override
   Widget build(BuildContext context) {
+
     var device =MediaQuery.of(context);
    return
      Scaffold(
