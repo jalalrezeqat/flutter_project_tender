@@ -10,10 +10,6 @@ import 'package:project2/Screen_Add/productadd.dart';
 import 'package:project2/Screen_Add/useradd.dart';
 import 'package:project2/Screen_Home/userhome.dart';
 
-
-
-
-
 getRoutes(){
   return {
     Login.routeName:(context) => Login(),
